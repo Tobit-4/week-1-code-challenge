@@ -1,0 +1,17 @@
+# Ramen Rating App
+
+This app allows users to add new ramen dishes to a list, display their details, and rate them.
+
+# Technologies used 
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Add new ramen dishes with a name, restaurant, image, rating, and comment.
+- Display all ramen images in a grid.
+- Click on an image to view its details.
+
+## Challenges
+- Initially, the form submission wasn't working correctly. I fixed this by using `event.preventDefault()` to prevent the page from reloading.
+- The displayed images were too large. I resolved this by adding CSS to control their size.
